@@ -1,7 +1,5 @@
-[
-  {
-    "version_name": "1.2 BETA",
-    "version_code": "1.2",
-    "changelog": "• Хз, что-то изменил\n• Э а пошёл нахуй фалькор"
-  }
-]
+{
+  "version_name": "1.2 BETA",
+  "version_code": "1.2",
+  "changelog": "• Хз, что-то изменил\n• Э а пошёл нахуй фалькор"
+}
