@@ -3,5 +3,40 @@
     "badge_id": "0",
     "badge_title": "Огонь",
     "badge_url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/lottie.json"
+    },
+  {
+    "badge_id": "1",
+    "badge_title": "Демонический улыбка",
+    "badge_url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f608/lottie.json"
+    },
+  {
+    "badge_id": "2",
+    "badge_title": "Демонический хмурый вягляд",
+    "badge_url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f47f/lottie.json"
+    },
+  {
+    "badge_id": "3",
+    "badge_title": "Череп",
+    "badge_url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f480/lottie.json"
+    },
+  {
+    "badge_id": "4",
+    "badge_title": "Столкновение",
+    "badge_url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a5/lottie.json"
+    },
+  {
+    "badge_id": "5",
+    "badge_title": "Торнадо",
+    "badge_url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f32a_fe0f/lottie.json"
+    },
+  {
+    "badge_id": "6",
+    "badge_title": "Океан",
+    "badge_url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/lottie.json"
+    },
+  {
+    "badge_id": "7",
+    "badge_title": "Дракон",
+    "badge_url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f409/lottie.json"
   }
 ]
