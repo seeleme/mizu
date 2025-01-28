@@ -44,4 +44,10 @@
     "badge_title": "Дракон",
     "badge_url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f409/lottie.json"
   }
+  },
+  {
+    "badge_id": "9",
+    "badge_title": "02",
+    "badge_url": "https://cloud.seele.su/images/badge_02_1f698.json"
+  }
 ]
