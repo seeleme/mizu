@@ -8,63 +8,64 @@
     "badge_id": "1",
     "badge_title": "Корона 2",
     "badge_url": "https://cloud.seele.su/images/crown.json"
-    },
+  },
   {
     "badge_id": "2",
     "badge_title": "VIP",
     "badge_url": "https://cloud.seele.su/images/vip_crown_UI7sE1Aq.json"
-    },
+  },
   {
     "badge_id": "3",
     "badge_title": "Я король!",
     "badge_url": "https://cloud.seele.su/images/i_am_king_UI7t8qA.json"
-    },
+  },
   {
     "badge_id": "4",
     "badge_title": "WoW",
     "badge_url": "https://cloud.seele.su/images/wow_UI7yUi1b2.json"
+  },
   {
     "badge_id": "5",
     "badge_title": "Огонь",
     "badge_url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/lottie.json"
-    },
+  },
   {
     "badge_id": "6",
     "badge_title": "Череп",
     "badge_url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f480/lottie.json"
-    },
+  },
   {
-    "badge_id": "8",
+    "badge_id": "7",
     "badge_title": "Столкновение",
     "badge_url": "https://cloud.seele.su/images/collision_UI7bEi8.json"
-    },
-  {
-    "badge_id": "9",
-    "badge_title": "Торнадо",
-    "badge_url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f32a_fe0f/lottie.json"
-    },
+  },
   {
     "badge_id": "8",
+    "badge_title": "Торнадо",
+    "badge_url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f32a_fe0f/lottie.json"
+  },
+  {
+    "badge_id": "9",
     "badge_title": "Океан",
     "badge_url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/lottie.json"
-    },
+  },
   {
     "badge_id": "10",
     "badge_title": "Дракон",
     "badge_url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f409/lottie.json"
-    },
+  },
   {
     "badge_id": "11",
     "badge_title": "Открой глаза",
     "badge_url": "https://cloud.seele.su/images/eye_UI7aQs.json"
-    },
+  },
   {
     "badge_id": "12",
     "badge_title": "Пусть наш огонь никогда не погаснет",
     "badge_url": "https://cloud.seele.su/images/fire_UI7aHu9.json"
-    },
+  },
   {
-    "badge_id": "12",
+    "badge_id": "13",
     "badge_title": "Любовная табличка",
     "badge_url": "https://cloud.seele.su/images/love_sign_UI7iOpA0.json"
   }
