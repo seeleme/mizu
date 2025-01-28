@@ -48,5 +48,10 @@
     "badge_id": "9",
     "badge_title": "Открой глаза",
     "badge_url": "https://cloud.seele.su/images/eye_UI7aQs.json"
+    },
+  {
+    "badge_id": "10",
+    "badge_title": "Пусть наш огонь никогда не погаснет",
+    "badge_url": "https://cloud.seele.su/images/fire_UI7aHu9.json"
   }
 ]
