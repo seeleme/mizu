@@ -1,6 +1,7 @@
 [
   {
     "badge_id": "0",
+    "badge_type": "lottie",
     "badge_title": "Корона",
     "badge_url": "https://cloud.seele.su/images/crowm_animation_UI7i2AtH.json"
   },
@@ -11,61 +12,73 @@
   },
   {
     "badge_id": "2",
+    "badge_type": "lottie",
     "badge_title": "VIP",
     "badge_url": "https://cloud.seele.su/images/vip_crown_UI7sE1Aq.json"
   },
   {
     "badge_id": "3",
+    "badge_type": "lottie",
     "badge_title": "Я топ хентай дрочер 😎!",
     "badge_url": "https://cloud.seele.su/images/top_UI7uY56R.json"
   },
   {
     "badge_id": "4",
+    "badge_type": "lottie",
     "badge_title": "WoW",
     "badge_url": "https://cloud.seele.su/images/wow_UI7yUi1b2.json"
   },
   {
     "badge_id": "5",
+    "badge_type": "lottie",
     "badge_title": "Огонь",
     "badge_url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/lottie.json"
   },
   {
     "badge_id": "6",
+    "badge_type": "lottie",
     "badge_title": "Череп",
     "badge_url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f480/lottie.json"
   },
   {
     "badge_id": "7",
+    "badge_type": "lottie",
     "badge_title": "Столкновение",
     "badge_url": "https://cloud.seele.su/images/collision_UI7bEi8.json"
   },
   {
     "badge_id": "8",
+    "badge_type": "lottie",
     "badge_title": "Торнадо",
     "badge_url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f32a_fe0f/lottie.json"
   },
   {
     "badge_id": "9",
+    "badge_type": "lottie",
     "badge_title": "Океан",
     "badge_url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/lottie.json"
   },
   {
     "badge_id": "10",
+    "badge_type": "lottie",
     "badge_title": "Дракон",
     "badge_url": "https://fonts.gstatic.com/s/e/notoemoji/latest/1f409/lottie.json"
   },
   {
     "badge_id": "11",
+    "badge_type": "lottie",
     "badge_title": "Открой глаза",
     "badge_url": "https://cloud.seele.su/images/eye_UI7aQs.json"
   },
   {
     "badge_id": "12",
+    "badge_type": "lottie",
     "badge_title": "Пусть наш огонь никогда не погаснет",
     "badge_url": "https://cloud.seele.su/images/fire_UI7aHu9.json"
   },
   {
     "badge_id": "13",
+    "badge_type": "lottie",
     "badge_title": "Любовная табличка",
     "badge_url": "https://cloud.seele.su/images/love_sign_UI7iOpA0.json"
   }
