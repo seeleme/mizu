@@ -4,8 +4,8 @@
   "prices": {
     "currency": "USD",
     "premium": {
-      "monthly": 2.99,
-      "yearly": 28.70
+      "monthly": "2.99$/месяц",
+      "yearly": "28.70$/год"
     },
     "vip": {
       "monthly": 5.99,
